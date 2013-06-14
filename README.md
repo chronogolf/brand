@@ -8,7 +8,7 @@ This repository is designed to help you use our brand and assets, including our 
 ## Promoting your Chronogolf on your website
 
 **Do:**
-- Use our official [booking button](https://github.com/chronogolf/booking-button)
+- Use our official [booking button](http://chronogolf.github.io/booking-button/)
 
 **Don't:**
 - Create your own buttons or images using our logos. If technically necessary, please contact us beforehand.
