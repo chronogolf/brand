@@ -5,6 +5,10 @@ Chronogolf Logo & Brand Guidelines
 
 This repository is designed to help you use our brand and assets, including our logo, content and trademarks. If you’d like to make any use of our marks that is not covered by this document, you must contact us at contact at chronogolf.ca and include a visual mockup of intended use.
 
+## Style Guide
+
+![Chronogolf][style-guide]
+
 ## Promoting your Chronogolf on your website
 
 **Do:**
@@ -36,5 +40,5 @@ For light backgrounds | For dark backgrounds
 [preview-light]: http://chronogolf.s3.amazonaws.com/promotionals/logos/preview--transparent.png
 [preview-dark]: http://chronogolf.s3.amazonaws.com/promotionals/logos/preview--transparent-dark.png
 [crest]: http://chronogolf.s3.amazonaws.com/promotionals/logos/cg-crest.png
-
+[style-guide]: http://chronogolf.s3.amazonaws.com/branding/Chronogolf-StyleGuide.jpg
 
