@@ -17,8 +17,6 @@ This repository is designed to help you use our brand and assets, including our 
 **Don't:**
 - Create your own buttons or images using our logos. If technically necessary, please contact us beforehand.
 
-![](http://chronogolf.s3.amazonaws.com/promotionals/logos/preview--booking-button.png)
-
 ## Promoting your Chronogolf in general
 
 ### Downloads
