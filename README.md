@@ -23,7 +23,7 @@ This repository is designed to help you use our brand and assets, including our 
 For light backgrounds | For dark backgrounds
 --- | ---
 ![][preview-light] | ![][preview-dark]
-[EPS](https://github.com/chronogolf/logo-brand/raw/master/eps/chronogolf-logo.eps) · [PNG](https://github.com/chronogolf/logo-brand/raw/master/png/chronogolf-logo-LC.png) | [EPS](https://github.com/chronogolf/logo-brand/raw/master/eps/chronogolf-logo.eps) · [PNG](https://github.com/chronogolf/logo-brand/raw/master/png/chronogolf-logo-LW.png)
+[EPS](https://github.com/chronogolf/logo-brand/raw/master/eps/chronogolf-logo.eps) | [EPS](https://github.com/chronogolf/logo-brand/raw/master/eps/chronogolf-logo.eps)
 
 ### Usage guidelines
 
@@ -38,5 +38,5 @@ For light backgrounds | For dark backgrounds
 [preview-light]: http://chronogolf.s3.amazonaws.com/promotionals/logos/preview--transparent.png
 [preview-dark]: http://chronogolf.s3.amazonaws.com/promotionals/logos/preview--transparent-dark.png
 [crest]: http://chronogolf.s3.amazonaws.com/promotionals/logos/cg-crest.png
-[style-guide]: http://chronogolf.s3.amazonaws.com/branding/Chronogolf-StyleGuide.jpg
+[style-guide]: https://raw.githubusercontent.com/chronogolf/logo-brand/master/Chronogolf-StyleGuide.jpg
 
