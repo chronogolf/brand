@@ -6,5 +6,5 @@ This repository is designed to help you use our brand and assets, including our 
 
 ![Chronogolf][style-guide]
 
-[crest]: https://raw.githubusercontent.com/chronogolf/brand/blob/master/chronogolf/Chronogolf%20-%20Green.png
+[crest]: https://cdn2.chronogolf.com/assets/logos/Github%20-%20Header.png
 [style-guide]: https://raw.githubusercontent.com/chronogolf/brand/master/Chronogolf%20Brand.png
