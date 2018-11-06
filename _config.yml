@@ -2,7 +2,7 @@ title: Chronogolf Brand
 description: Chronogolf Brand
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
